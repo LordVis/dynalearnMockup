@@ -1,19 +1,5 @@
 {
-  "name": "dynalearnhosting",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "vite",
-    "build": "vue-cli-service build",
-    "preview": "vite preview"
-  },
   "dependencies": {
-    "@vue/cli-service": "^5.0.8",
-    "cli": "^1.0.1",
-    "vue": "^3.3.4"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^4.3.4",
-    "vite": "^4.4.9"
+    "@vue/cli-service": "^5.0.8"
   }
 }
